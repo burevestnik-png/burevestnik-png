@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=burevestnik-png" alt="burevestnik-png" /> </p>
 
-- 🌱 I’m currently learning **React, Angular, Node**
+- 🌱 I’m currently learning **React, Flutter, Node**
 
 - 📫 How to reach me **https://t.me/young_notherner**
 
