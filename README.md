@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=burevestnik-png&label=Profile%20views&color=0e75b6&style=flat" alt="burevestnik-png" /> </p>
 
-- 🔭 I’m currently working on **mobile app and web lab 4**
+- 🔭 I’m currently working on **Arduino and C course**
 
 - 🌱 I’m currently learning **React, Flutter, C**
 
-- 💬 Ask me about **React and Flutter**
+- 💬 Ask me about **React**
 
 - 📫 How to reach me **yaroslav1630@gmail.com, https://t.me/young_notherner**
 
