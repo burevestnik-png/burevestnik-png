@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=burevestnik-png&label=Profile%20views&color=0e75b6&style=flat" alt="burevestnik-png" /> </p>
 
-- 🔭 I’m currently working on **C course**
+- 🔭 I’m currently working on **Cpp course + other university stuff (also a bit worcel)**
 
-- 🌱 I’m currently learning **React, C**
+- 🌱 I’m currently learning **React, Kotlin**
 
 - 💬 Ask me about **React**
 
