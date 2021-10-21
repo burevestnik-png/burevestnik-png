@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Flutter, Dart**
 
-- 📫 How to reach me **yaroslav1630@gmail.com, https://t.me/young_notherner**
+- 📫 How to reach me **kulinich.yaroslav@outlook.com, https://t.me/young_notherner**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
