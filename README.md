@@ -15,6 +15,7 @@
 
 - Third-year student at ITMO University
 - Worked a lot with the frontend, but unfortunately burned out
+- I have experience in simple crud-programming with spring
 - I find mobile development fascinating, both native and cross-platform
 - It would be cool in the future to try to write something on Rust
 
