@@ -1,9 +1,9 @@
 <h1 align="center">Hi, there! I'm Yaroslav Kulinich <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/></h1>
-<h3 align="center">A passionate begginer mobile developer</h3>
+<h3 align="center">A passionate junior mobile developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=burevestnik-png&label=Profile%20views&color=0e75b6&style=flat" alt="burevestnik-png" /> </p>
 
-- 🔭 I’m currently working on **Athena, secure messenger**
+- 🔭 I’m currently working on **VK messenger**
 
 - 🌱 I’m currently learning **Android Framework and its ecosystem**
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Brief bio</h3>
 
-- Fourth-year student at ITMO University
+- First-year master at ITMO University
 - Worked a lot with the frontend, but unfortunately burned out
 - I have experience in simple crud-programming with spring
 - I find mobile development fascinating, both native and cross-platform
