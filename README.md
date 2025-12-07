@@ -1,23 +1,22 @@
 <h1 align="center">Hi, there! I'm Yaroslav Kulinich <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/></h1>
-<h3 align="center">A passionate junior mobile developer</h3>
+<h3 align="center">A passionate middle mobile developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=burevestnik-png&label=Profile%20views&color=0e75b6&style=flat" alt="burevestnik-png" /> </p>
 
-- 🔭 I’m currently working on **VK messenger**
+- 🔭 I’m currently working on **VK**
 
-- 🌱 I’m currently learning **Android Framework and its ecosystem**
+- 🌱 I’m currently learning **Android Performance**
 
-- 💬 Ask me about **Android, Flutter and React**
+- 💬 Ask me about **Android, Kotlin and Java**
 
-- 📫 How to reach me **kulinich.yaroslav@outlook.com, https://t.me/young_northerner**
+- 📫 How to reach me **https://t.me/young_northerner**
 
 <h3 align="left">Brief bio</h3>
 
-- First-year master at ITMO University
+- Master at ITMO University
 - Worked a lot with the frontend, but unfortunately burned out
-- I have experience in simple crud-programming with spring
 - I find mobile development fascinating, both native and cross-platform
-- It would be cool in the future to try to write something on Rust
+- It would be cool in the future to try 3D modelling
 
 <h3 align="left">Languages and tools for mobile development:</h3>
 <p align="left"> 
